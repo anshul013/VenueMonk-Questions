@@ -31,3 +31,4 @@ int main()
     cout<<cnt(notes,n,w)<<endl;
     return 0;
 }
+//There are 73682 ways.
